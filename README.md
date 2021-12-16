@@ -24,3 +24,7 @@ A web application developed using React.js that can be used to support a confere
 - Access relevant information from the _Mendeley_ network.
 
 Using React.js, separate components are designated to the _Authors_ and _Articles_, that access and allow, through a REST interface, CRUD operations. For efficient access to information, features such as searching for a specific author or article can be implemented.
+
+## Running the app
+1. Create a MySQL Database by using running the *create-database.js* script.
+2. Run the server app with the *run start* command.
