@@ -28,7 +28,6 @@ Using React.js, separate components are designated to the _Authors_ and _Article
 ## Running the app
 1. Create a MySQL Database by using running the *create-database.js* script.
 2. Run the server app with the *run start* command.
-3. Run the React frontend app from client folder with *run start* command.
 
 <hr>
 
