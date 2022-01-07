@@ -1,0 +1,47 @@
+body {
+  background-color: #f4f3f0;
+  margin-bottom: 10px;
+}
+
+#header {
+  background-color: #695b62;
+  padding: 20px 0px 10px 30px;
+  border-bottom: 1px solid #484848;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #f4f3f0;
+}
+
+#authorsList {
+  padding: 50px;
+}
+
+#authorsAddForm {
+  background-color: #79757c;
+  margin: 10px;
+  padding: 10px 20px;
+  color: #f4f3f0;
+}
+
+#authorsAddFormLine {
+  background-color: #f6f5f5;
+}
+
+.lastName,
+#authorsTitle {
+  color: #40373c;
+}
+
+#articles {
+  padding: 20px;
+  margin: 10px 0px;
+  border: 1px solid #695b62;
+}
+
+.articlesTitle {
+  color: #28a1c5;
+}
+
+.input {
+  display: inline-block;
+  width: auto;
+}
